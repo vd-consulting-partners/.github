@@ -30,7 +30,7 @@ We’re **not just followers—we lead**. If we build something useful, we share
 We’re **builders, fixers, and creators** who believe in **transparency, impact, and a bit of fun**. If you love **pushing boundaries, challenging the norm, and enjoying building**, you’ll fit right in.  
 
 💬 **Let's connect:** [LinkedIn](https://linkedin.com/company/vd-consulting-partners)  
-🌐 **Website:** [YourWebsiteHere.com]  
+🌐 **Website:** [vdconsultingpartners.com](https://vdconsultingpartners.com)
 🤝 **Want to collaborate?** Fork, star, or contribute to any of our projects!  
 
 🔥 **Build. Scale. Succeed.** 🔥  
