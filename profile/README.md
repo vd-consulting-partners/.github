@@ -10,8 +10,8 @@ And yes—we love **open-source, automation, and a lot of smoke.** 🔥💨
 ## **What We Do**  
 We don’t just **develop technology**—we **engineer solutions that drive business success**. Our focus is on:  
 
-- 🔹 **AI & IoT Solutions** – Computer vision, machine learning, and IoT analytics for **public safety, smart cities, industrial monitoring, and environmental intelligence.**  
-- 🔹 **Cloud & Infrastructure Engineering** – High-performance **DevOps, SRE, and cloud-native architectures** for scalability, security, and efficiency.  
+🔹 **AI & IoT Solutions** – Computer vision, machine learning, and IoT analytics for **public safety, smart cities, industrial monitoring, and environmental intelligence.**  
+🔹 **Cloud & Infrastructure Engineering** – High-performance **DevOps, SRE, and cloud-native architectures** for scalability, security, and efficiency.  
 
 Our solutions **optimize traffic flow, detect infrastructure failures, improve public safety, enhance environmental monitoring, and power next-gen cloud operations.**  
 
